@@ -15,7 +15,8 @@ concept
 - <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java/concurrency/ShutdownHookExample.java">ShutdownHook</a>
 
 ### Java8
+- <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java8/FutureExample.java">CompletableFuture</a>
 - <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java8/ForEachExample.java">forEach</a>
 - <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/java8/functionalinterface">Functional Interface</a>
 - <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/java8/lambdas">Lambda</a>
-- <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java8/FutureExample.java">CompletableFuture</a>
+- <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/java8/stream">Stream</a>
