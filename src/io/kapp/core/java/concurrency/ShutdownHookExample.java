@@ -11,25 +11,27 @@ public class ShutdownHookExample {
 		MainThread r = new MainThread();
 		Thread thread = new Thread(r);
 		thread.start();
-		
+
 		MyThread th1 = new MyThread();
 		MyThread th2 = new MyThread();
 		MyThread th3 = new MyThread();
-		
+
 		System.out.println("State before th1: " + th1.getState());
 		th1.start();
-		th1.join(); //will start th2, th3 once th1 is completed
+		th1.join(); // will start th2, th3 once th1 is completed
 		System.out.println("State after th1: " + th1.getState());
-		
-		th2.setDaemon(true); //backend support thread
+
+		th2.setDaemon(true); // backend support thread
 		th2.start();
 		th3.start();
-		
+
+		// This will break out the thread only if it is sleeping/waiting
+		// Else it won't interrupt the thread, set interrupt status to true
 		th2.interrupt(); // interrupt th2 thread
-		
+
 		Runtime rt = Runtime.getRuntime();
-		rt.addShutdownHook(new ShutdownHook());		
-		
+		rt.addShutdownHook(new ShutdownHook());
+
 	}
 }
 
@@ -60,7 +62,7 @@ class MyThread extends Thread {
 			x = i;
 			try {
 				Thread.sleep(500);
-				Thread.yield(); //pause and allow other threads to execute
+				Thread.yield(); // pause and allow other threads to execute
 			} catch (InterruptedException ex) {
 				System.out.println(ex.getLocalizedMessage());
 			}
