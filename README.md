@@ -10,10 +10,10 @@ concept
 - <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java/basic/StrictfpKeyword.java">Strictfp</a>
 
 ### OOP
-- <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/oop">OOP</a>
-- <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/oop/MyAbstract.java">Abstract</a>
-- <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/oop/MyInterface.java">Interface</a>
-- <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/oop/Inheritance.java">Inheritance</a>
+- <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/java/oop">OOP</a>
+- <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java/oop/MyAbstract.java">Abstract</a>
+- <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java/oop/MyInterface.java">Interface</a>
+- <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java/oop/Inheritance.java">Inheritance</a>
 
 
 ### Thread
