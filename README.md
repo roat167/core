@@ -14,6 +14,10 @@ concept
 - <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java/basic/Finalize.java">Finalize</a>
 - <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java/basic/SerializationExample.java">Serialization</a>
 
+### Data Structure
+- <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/java/datastructure">DataStructure</a>
+- <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java/datastructure/ArrayExample.java">Array</a>
+
 ### OOP
 - <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/java/oop">OOP</a>
 - <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java/oop/MyAbstract.java">Abstract</a>
