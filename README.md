@@ -36,3 +36,7 @@ concept
 - <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/java8/functionalinterface">Functional Interface</a>
 - <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/java8/lambdas">Lambda</a>
 - <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/java8/stream">Stream</a>
+
+### DesignPattern
+- <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/designpattern">Design Pattern</a>
+- <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/designpattern/singleton/Singleton.java">Singleton</a>
