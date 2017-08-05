@@ -18,6 +18,10 @@ concept
 - <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/java/datastructure">DataStructure</a>
 - <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java/datastructure/ArrayExample.java">Array</a>
 
+### Collection
+- <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/java/collection">Collection</a>
+- <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java/collection/SetExample.java">Set</a>
+
 ### OOP
 - <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/java/oop">OOP</a>
 - <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/java/oop/MyAbstract.java">Abstract</a>
