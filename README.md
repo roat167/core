@@ -45,3 +45,9 @@ concept
 ### DesignPattern
 - <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/designpattern">Design Pattern</a>
 - <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/designpattern/singleton/Singleton.java">Singleton</a>
+- <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/designpattern/builder">Builder</a>
+
+## Credit & Reference:
+- Book: <a href="https://www.amazon.com/gp/product/0201633612/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201633612&linkCode=as2&tag=kapp01-20&linkId=6cb656517049f71b6c1bc3e63ae52596">Design Patterns: Elements of Reusable Object-Oriented Software</a>
+- Book: <a href="https://www.amazon.com/gp/product/1118722868/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118722868&linkCode=as2&tag=kapp01-20&linkId=14a57428bf0e0e0ef8c41ed5f23e517d">Java Programming Interview Exposed</a>
+- Book: <a href="https://www.amazon.com/gp/product/0321356683/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321356683&linkCode=as2&tag=kapp01-20&linkId=7c00c5a738223e1d59ca154f8ede284c">Effective Java (2nd Edition)</a>
