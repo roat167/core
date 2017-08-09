@@ -44,8 +44,10 @@ concept
 
 ### DesignPattern
 - <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/designpattern">Design Pattern</a>
-- <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/designpattern/singleton/Singleton.java">Singleton</a>
 - <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/designpattern/builder">Builder</a>
+- <a href="https://github.com/roat167/core/tree/master/src/io/kapp/core/designpattern/factory">Factory</a>
+- <a href="https://github.com/roat167/core/blob/master/src/io/kapp/core/designpattern/singleton/Singleton.java">Singleton</a>
+
 
 ## Credit & Reference:
 - Book: <a href="https://www.amazon.com/gp/product/0201633612/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201633612&linkCode=as2&tag=kapp01-20&linkId=6cb656517049f71b6c1bc3e63ae52596">Design Patterns: Elements of Reusable Object-Oriented Software</a>
