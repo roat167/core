@@ -1,4 +1,4 @@
-package io.kapp.core.designpattern.factory;
+package core.designpattern.factory;
 
 /**
  * Super class

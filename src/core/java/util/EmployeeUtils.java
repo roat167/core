@@ -1,4 +1,4 @@
-package io.kapp.core.java.util;
+package core.java.util;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -8,8 +8,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 
-import io.kapp.core.java.domain.Employee;
-import io.kapp.core.java.domain.Gender;
+import core.java.domain.Employee;
+import core.java.domain.Gender;
 
 public class EmployeeUtils {
 	private static final Double BASE_SALARY = 50000.0;

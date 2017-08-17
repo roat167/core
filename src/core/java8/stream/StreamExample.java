@@ -1,11 +1,11 @@
-package io.kapp.core.java8.stream;
+package core.java8.stream;
 
 import java.util.Comparator;
 import java.util.List;
 
-import io.kapp.core.java.domain.Employee;
-import io.kapp.core.java.util.EmployeeUtils;
-import io.kapp.core.java8.lambdas.SortList;
+import core.java.domain.Employee;
+import core.java.util.EmployeeUtils;
+import core.java8.lambdas.SortList;
 
 public class StreamExample {
 

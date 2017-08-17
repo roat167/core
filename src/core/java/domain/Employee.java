@@ -1,4 +1,4 @@
-package io.kapp.core.java.domain;
+package core.java.domain;
 
 import java.time.LocalDate;
 

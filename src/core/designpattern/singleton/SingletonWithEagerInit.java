@@ -1,4 +1,4 @@
-package io.kapp.core.designpattern.singleton;
+package core.designpattern.singleton;
 
 /**
  * Class created at the time of class loading so the instance is created whether

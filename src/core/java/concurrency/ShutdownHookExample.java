@@ -1,4 +1,4 @@
-package io.kapp.core.java.concurrency;
+package core.java.concurrency;
 
 /**
  * ShutdownHook to perform cleanup resource or save the state when(before) JVM

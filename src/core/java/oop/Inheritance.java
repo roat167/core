@@ -1,4 +1,4 @@
-package io.kapp.core.java.oop;
+package core.java.oop;
 
 public class Inheritance {
 	public static void main(String[] args) {

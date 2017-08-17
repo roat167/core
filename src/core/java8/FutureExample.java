@@ -1,4 +1,4 @@
-package io.kapp.core.java8;
+package core.java8;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.CompletableFuture;

@@ -1,4 +1,4 @@
-package io.kapp.core.java.concurrency;
+package core.java.concurrency;
 
 public class Threads {
 

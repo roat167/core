@@ -1,4 +1,4 @@
-package io.kapp.core.designpattern.builder;
+package core.designpattern.builder;
 
 /**
  * Builder pattern use to create a companion object, builder to construct domain

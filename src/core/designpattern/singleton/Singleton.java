@@ -1,4 +1,4 @@
-package io.kapp.core.designpattern.singleton;
+package core.designpattern.singleton;
 
 /**
  * Singleton pattern ensures at most one instance of a class exists at any given

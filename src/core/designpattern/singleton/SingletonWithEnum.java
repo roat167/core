@@ -1,4 +1,4 @@
-package io.kapp.core.designpattern.singleton;
+package core.designpattern.singleton;
 
 /**
  * Remember that Java enum values are globally accessible, so is the singleton

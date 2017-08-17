@@ -1,4 +1,4 @@
-package io.kapp.core.designpattern.singleton;
+package core.designpattern.singleton;
 
 /**
  * This approach similar to Eager Initialization, except the instance is created

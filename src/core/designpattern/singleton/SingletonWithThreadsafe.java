@@ -1,4 +1,4 @@
-package io.kapp.core.designpattern.singleton;
+package core.designpattern.singleton;
 
 /**
  * The implementation is similar to Singleton with Lazy initialization except we

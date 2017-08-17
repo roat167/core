@@ -1,4 +1,4 @@
-package io.kapp.core.java.datastructure;
+package core.java.datastructure;
 
 public class TreeNode {
 	int val;

@@ -1,4 +1,4 @@
-package io.kapp.core.java8.functionalinterface;
+package core.java8.functionalinterface;
 
 public class Main implements FunctionalInterface_1, FunctionalInterface_2 {
 

@@ -1,4 +1,4 @@
-package io.kapp.core.java.oop;
+package core.java.oop;
 
 /**
  * Interface: is used to achieve abstraction, support the functionality of

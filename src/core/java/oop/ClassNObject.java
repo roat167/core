@@ -1,4 +1,4 @@
-package io.kapp.core.java.oop;
+package core.java.oop;
 
 /**
  * Class: an abstract definition that has attribute(properties, states) and

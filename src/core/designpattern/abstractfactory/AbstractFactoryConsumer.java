@@ -1,4 +1,4 @@
-package io.kapp.core.designpattern.abstractfactory;
+package core.designpattern.abstractfactory;
 
 /**
  * Consumer class provides entry point for client classes to create sub-classes

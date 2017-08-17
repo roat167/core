@@ -1,4 +1,4 @@
-package io.kapp.core.java.basic;
+package core.java.basic;
 
 /**
  * used to perform some final operations or clean up operations on an object

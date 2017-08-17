@@ -1,4 +1,4 @@
-package io.kapp.core.java.basic;
+package core.java.basic;
 
 /**
  * The covariant return type specifies that the return type may vary in the same

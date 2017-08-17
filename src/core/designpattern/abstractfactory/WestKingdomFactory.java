@@ -1,4 +1,4 @@
-package io.kapp.core.designpattern.abstractfactory;
+package core.designpattern.abstractfactory;
 
 /**
  * WestKingdomFactory concrete factory

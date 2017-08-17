@@ -1,4 +1,4 @@
-package io.kapp.core.java.oop;
+package core.java.oop;
 
 /**
  *Interface declare a set of related method outside of any class

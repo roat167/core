@@ -1,4 +1,4 @@
-package io.kapp.core.designpattern.factory;
+package core.designpattern.factory;
 
 /**
  * Factory pattern is Creational Design Pattern

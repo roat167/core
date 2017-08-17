@@ -1,4 +1,4 @@
-package io.kapp.core.java8.functionalinterface;
+package core.java8.functionalinterface;
 
 @FunctionalInterface
 public interface FunctionalInterface_2 {

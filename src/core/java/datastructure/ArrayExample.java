@@ -1,4 +1,4 @@
-package io.kapp.core.java.datastructure;
+package core.java.datastructure;
 
 import java.util.ArrayList;
 import java.util.List;

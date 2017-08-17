@@ -1,4 +1,4 @@
-package io.kapp.core.java.oop;
+package core.java.oop;
 
 /*
  * Incomplete class definition (declared but not define, eg: calculateInterest)

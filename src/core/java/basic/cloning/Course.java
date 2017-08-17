@@ -1,4 +1,4 @@
-package io.kapp.core.java.basic.cloning;
+package core.java.basic.cloning;
 
 public class Course {
 	int id;

@@ -1,4 +1,4 @@
-package io.kapp.core.designpattern.abstractfactory;
+package core.designpattern.abstractfactory;
 
 /**
  * Abstract Factory (Creational Pattern): You can think of it as the factory of

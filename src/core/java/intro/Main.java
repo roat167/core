@@ -1,4 +1,4 @@
-package io.kapp.core.java.intro;
+package core.java.intro;
 
 public class Main {
 

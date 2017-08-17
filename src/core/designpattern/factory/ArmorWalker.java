@@ -1,6 +1,6 @@
-package io.kapp.core.designpattern.factory;
+package core.designpattern.factory;
 
-import io.kapp.core.designpattern.builder.Weapon;
+import core.designpattern.builder.Weapon;
 
 public class ArmorWalker extends Walker {
 	private int id;

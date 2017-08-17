@@ -1,4 +1,4 @@
-package io.kapp.core.java8;
+package core.java8;
 
 import java.util.ArrayList;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package io.kapp.core.java.util;
+package core.java.util;
 
 public class MyTimer {
 	private static long duration = 0;

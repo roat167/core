@@ -1,4 +1,4 @@
-package io.kapp.core.java.collection;
+package core.java.collection;
 
 import java.util.HashMap;
 import java.util.Iterator;

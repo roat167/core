@@ -1,4 +1,4 @@
-package io.kapp.core.java.basic;
+package core.java.basic;
 
 public class PrimitiveType {
 

@@ -1,4 +1,4 @@
-package io.kapp.core.java.basic;
+package core.java.basic;
 
 /**
  * volatile is used to indicate that a variable's value will be modified by

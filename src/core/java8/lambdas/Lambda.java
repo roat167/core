@@ -1,12 +1,12 @@
-package io.kapp.core.java8.lambdas;
+package core.java8.lambdas;
 
 import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
 
-import io.kapp.core.java.domain.Employee;
-import io.kapp.core.java.util.EmployeeUtils;
+import core.java.domain.Employee;
+import core.java.util.EmployeeUtils;
 
 /**
  * Lambda expressions are means to create anonymous classes of functional

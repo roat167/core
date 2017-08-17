@@ -1,4 +1,4 @@
-package io.kapp.core.java8.functionalinterface;
+package core.java8.functionalinterface;
 
 /**
  * From Java 8, interfaces are enhanced to have method with implementation. We

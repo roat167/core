@@ -1,4 +1,4 @@
-package io.kapp.core.designpattern.builder;
+package core.designpattern.builder;
 
 /**
  * Simple class for Walking Dead Hero

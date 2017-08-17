@@ -1,4 +1,4 @@
-package io.kapp.core.designpattern.builder;
+package core.designpattern.builder;
 
 public enum Profession {
 	ASSUALT, BRUISER, HUNTER, SCOUT, SHOOTER, WARRIOR;

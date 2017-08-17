@@ -1,4 +1,4 @@
-package io.kapp.core.java.basic;
+package core.java.basic;
 
 /**
  * strictfp keyword ensures that you will get the same result on every platform

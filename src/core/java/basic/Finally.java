@@ -1,4 +1,4 @@
-package io.kapp.core.java.basic;
+package core.java.basic;
 
 /**
  * used for finally block that follows try or catch block. Finally

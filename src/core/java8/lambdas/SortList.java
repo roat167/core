@@ -1,11 +1,11 @@
-package io.kapp.core.java8.lambdas;
+package core.java8.lambdas;
 
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import io.kapp.core.java.domain.Employee;
-import io.kapp.core.java.util.EmployeeUtils;
+import core.java.domain.Employee;
+import core.java.util.EmployeeUtils;
 
 public class SortList {
 	
