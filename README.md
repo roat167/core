@@ -18,6 +18,7 @@ concept
 ### Data Structure
 - <a href="https://github.com/roat167/core/tree/master/src/core/java/datastructure">DataStructure</a>
 - <a href="https://github.com/roat167/core/blob/master/src/core/java/datastructure/ArrayExample.java">Array</a>
+- <a href="https://github.com/roat167/core/blob/master/src/core/java/datastructure/SimpleLinkedList.java">LinkedList</a>
 
 ### Collection
 - <a href="https://github.com/roat167/core/tree/master/src/core/java/collection">Collection</a>
